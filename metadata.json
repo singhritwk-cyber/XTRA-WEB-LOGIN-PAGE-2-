@@ -1,0 +1,6 @@
+{
+  "name": "Premium Gaming Login",
+  "description": "A stunning, responsive, dark-themed login page with beautiful fireworks and glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
